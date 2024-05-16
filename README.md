@@ -12,5 +12,7 @@
 ### 🎱 Outros:
 ![My Skills](https://skillicons.dev/icons?i=notion,github,discord)
 
-[![Kayan Oti's Github Stats](https://github-readme-stats.vercel.app/api?username=Kayan-Oti&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayan-Oti&theme=dark)]
+<div style="display: flex; flex-direction: row;">
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Kayan-Oti&theme=dark"/>
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayan-Oti&theme=dar"/>
+</div>
