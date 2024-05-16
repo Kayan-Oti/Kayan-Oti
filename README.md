@@ -11,8 +11,3 @@
 ![My Skills](https://skillicons.dev/icons?i=unity,unreal,vscode,blender)
 ### 🎱 Outros:
 ![My Skills](https://skillicons.dev/icons?i=notion,github,discord)
-
-<div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Kayan-Oti&theme=dark"/>
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayan-Oti&theme=dar"/>
-</div>
