@@ -2,7 +2,9 @@
 
 ## Sobre Mim
 🎈 Tenho 20 anos, estou atualmente no último semestre do curso de Jogos Digitais🎭, estudando programação desde os 13 anos.
+
 🎇 Desenvolvedor flexível, sempre buscando me aprimorar como um todo. Durante minha jornada estudei diversas linguagens, e hoje atualmente tenho foco em C# e desenvolvimento em jogos na Unity.
+
 🎨 Meus principais passatempos são jogar, passar tempo com família e amigos, arte digital, ler e estudar.
 
 🎯 Esse ano tenho como objetivo adquirir experiência profissional e expandir ainda mais meu portifólio com a Unity. (16/05/2024).
