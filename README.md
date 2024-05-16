@@ -7,7 +7,7 @@
 
 🎨 Meus principais passatempos são jogar, passar tempo com família e amigos, arte digital, ler e estudar.
 
-🎯 Esse ano tenho como objetivo adquirir experiência profissional e expandir ainda mais meu portifólio com a Unity. (16/05/2024).
+🎯 Esse ano tenho como objetivo adquirir experiência profissional e expandir ainda mais meu portfólio com a Unity. (16/05/2024).
 
 ### 👑 Principais linguagens:
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,css,html,react)
