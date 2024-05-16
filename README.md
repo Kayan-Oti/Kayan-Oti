@@ -12,4 +12,4 @@
 ### 🎱 Outros:
 [![My Skills](https://skillicons.dev/icons?i=notion,github,discord)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayan-Oti&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayan-Oti&theme=dark)
