@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Kayan Oti, a Indie Game Developer From Brazil
 
 ## Sobre Mim
-🎈 Tenho 20 anos, estou atualmente no último semestre do curso de Jogos Digitais🎭, estudando programação desde os 13 anos.
+🎈 Tenho 20 anos, atualmente no último semestre do curso Jogos Digitais🎭, estudando programação desde os 13 anos.
 
 🎇 Desenvolvedor flexível, sempre buscando me aprimorar como um todo. Durante minha jornada estudei diversas linguagens, e hoje atualmente tenho foco em C# e desenvolvimento em jogos na Unity.
 
