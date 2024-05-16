@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Tenho 20 anos, estou atualmente no último semestre do curso de Jogos Digitais, estudando programação desde os 13 anos. Desenvolvedor flexível, sempre buscando me aprimorar como um todo. Durante minha jornada estudei diversas linguagens, e hoje atualmente tenho foco em C# e desenvolvimento em jogos na Unity.
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,css,html,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,vscode,blender)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=notion,github,discord)](https://skillicons.dev)
