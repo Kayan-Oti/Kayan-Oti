@@ -11,3 +11,5 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,vscode,blender)](https://skillicons.dev)
 ### 🎱 Outros:
 [![My Skills](https://skillicons.dev/icons?i=notion,github,discord)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayan-Oti&theme=transparent)
