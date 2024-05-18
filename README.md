@@ -10,7 +10,7 @@
 🎯 Esse ano tenho como objetivo adquirir experiência profissional e expandir ainda mais meu portfólio com a Unity. (16/05/2024).
 
 ### 👑 Principais linguagens:
-![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,css,html,react)
+![My Skills](https://skillicons.dev/icons?i=cs,c,java,js,css,html,react)
 ### 🕹 Ambiente de Desenvolvimento:
 ![My Skills](https://skillicons.dev/icons?i=unity,unreal,vscode,blender)
 ### 🎱 Outros:
