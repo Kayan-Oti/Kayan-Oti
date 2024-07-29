@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Kayan Oti, a Indie Game Developer From Brazil
+## 👋 Hi, I'm Kayan Oti, an Indie Game Developer From Brazil
 
 ## Sobre Mim
 🎈 Tenho 21 anos, atualmente no último semestre do curso Jogos Digitais🎭
